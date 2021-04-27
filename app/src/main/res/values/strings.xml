@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Flight Booking</string>
+
+
+    <string name="upload_image">UPLOAD IMAGE</string>
+
+    <string name="read_file">This app needs access to your file storage so that it can read photos.</string>
+
+
+    <string-array name="airways">
+        <item>Select Airways</item>
+        <item>Air India</item>
+        <item>Air Canada</item>
+        <item>British Airways</item>
+        <item>Qatar Airways</item>
+    </string-array>
+
+
+    <string-array name="days">
+        <item>Select Days</item>
+        <item>Mon - Tues</item>
+        <item>Tues - Wed</item>
+        <item>Wed -Thur</item>
+        <item>Thur -Fri</item>
+        <item>Fri -Sat</item>
+        <item>Sat -Sun</item>
+    </string-array>
+
+    <string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+
+    <string-array name="totalhours">
+        <item>Choose Total Hours</item>
+        <item>5 Hours</item>
+        <item>10 Hours</item>
+        <item>15 Hours</item>
+        <item>20 Hours</item>
+        <item>25 Hours</item>
+        <item>30 Hours</item>
+        <item>35 Hours</item>
+        <item>40 Hours</item>
+        <item>45 Hours</item>
+        <item>50 Hours</item>
+    </string-array>
+
+    <string-array name="stops">
+        <item>Please Choose no of Stops</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="source">
+        <item>Montreal-YUL</item>
+        <item>Toronto-YUZ</item>
+        <item>Bombay-CSIA</item>
+        <item>Ahmedabad-SVIA</item>
+    </string-array>
+
+    <string-array name="destination">
+        <item>Montreal-YUL</item>
+        <item>Toronto-YUZ</item>
+        <item>Bombay-CSIA</item>
+        <item>Ahmedabad-SVIA</item>
+    </string-array>
+
+    <string-array name="passCountry">
+        <item>INDIA</item>
+        <item>CANADA</item>
+    </string-array>
+
+    <string-array name="adults">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+
+    <string-array name="childrens">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="classtype">
+        <item>Business</item>
+        <item>Premium</item>
+        <item>Economy</item>
+    </string-array>
+
+
+    <string-array name="currency">
+        <item>CAD</item>
+        <item>INR</item>
+        <item>EUR</item>
+        <item>USD</item>
+    </string-array>
+
+
+    <string-array name="spinLugguage">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="route">
+        <item>Select Route</item>
+        <item>One Way</item>
+        <item>Two Way</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel_url_default"><b>https://mercure.accor.com/gb/canada/index.shtml</b></string>
+
+</resources>
